@@ -1,0 +1,8 @@
+
+# dataset.yaml
+train: /content/drive/MyDrive/Dataset_yolov5/images/train
+val: /content/drive/MyDrive/Dataset_yolov5/images/val
+test: /content/drive/MyDrive/Dataset_yolov5/images/test
+
+nc: 10
+names: ['Penguin', 'Kangaroo', 'Scorpion', 'Tree', 'Flower', 'Watch', 'Camera', 'Helicopter', 'Guitar', 'Microphone']
